@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79207393328",
+    "firebase_url": "https://shuttletrack-3ba43.firebaseio.com",
+    "project_id": "shuttletrack-3ba43",
+    "storage_bucket": "shuttletrack-3ba43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79207393328:android:2ea0f13977d99825",
+        "android_client_info": {
+          "package_name": "com.project.mohit.shuttletrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79207393328-54plghunfgd9p9aqe9r8v0khsfn68ab4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.mohit.shuttletrack",
+            "certificate_hash": "321585b4c60331c0e800fd291329a2fbe6a51e27"
+          }
+        },
+        {
+          "client_id": "79207393328-kihc2q0ikfpj6oa269pvki7nmm5eutk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA64rBhz-NCwH6acqFnGWDrAyvNe_fZA6Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79207393328-kihc2q0ikfpj6oa269pvki7nmm5eutk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
